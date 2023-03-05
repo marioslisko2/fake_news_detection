@@ -6,3 +6,5 @@ The topic of this master's thesis is the application of algorithms for automatic
 
 Keywords: <em> Disinformation, fake news, labelled dataset, natural language processing, machine learning algorithms, accuracy, precision, recall, F1, confusion matrix </em>
 </p>
+
+You can download the dataset here: https://kaggle.com/competitions/fake-news
